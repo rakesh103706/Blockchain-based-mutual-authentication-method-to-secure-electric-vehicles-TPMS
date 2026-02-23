@@ -1,0 +1,2 @@
+# Blockchain-based-mutual-authentication-method-to-secure-electric-vehicles-TPMS
+This project analyzes cybersecurity vulnerabilities in Tire Pressure Monitoring Systems (TPMS) used in modern vehicles. It proposes a lightweight RFID-based authentication mechanism integrated with blockchain to secure sensor communication, prevent spoofing, replay, and eavesdropping attacks, and enhance data integrity and driver safety.
